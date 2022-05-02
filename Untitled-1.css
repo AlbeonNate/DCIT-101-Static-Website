@@ -1,0 +1,19 @@
+{
+  margin : 0;
+  padding : 0;
+  box-sizing:border-box;
+}
+body{
+    background: white;
+}
+footer{
+    background: orangered;
+    height:auto
+    width:100vw;
+    padding-top : 040 px;
+    colour:white;
+}
+{
+    display:flex;
+    align-item
+}
